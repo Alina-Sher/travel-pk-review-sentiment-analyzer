@@ -1,0 +1,6 @@
+streamlit>=1.40,<1.50
+pandas>=2.0
+plotly>=5.18
+requests>=2.31
+beautifulsoup4>=4.12
+pytest>=7.4
